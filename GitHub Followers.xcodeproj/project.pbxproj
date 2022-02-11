@@ -27,6 +27,7 @@
 		502224AC27B438F500E3B4D5 /* FollowerCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224AB27B438F500E3B4D5 /* FollowerCollectionViewCell.swift */; };
 		502224AE27B4397900E3B4D5 /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224AD27B4397900E3B4D5 /* GFAvatarImageView.swift */; };
 		502224B627B5D3A000E3B4D5 /* GFEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224B527B5D3A000E3B4D5 /* GFEmptyStateView.swift */; };
+		502224B827B68F6100E3B4D5 /* UserInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224B727B68F6100E3B4D5 /* UserInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		502224AB27B438F500E3B4D5 /* FollowerCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCollectionViewCell.swift; sourceTree = "<group>"; };
 		502224AD27B4397900E3B4D5 /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
 		502224B527B5D3A000E3B4D5 /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
+		502224B727B68F6100E3B4D5 /* UserInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				5022248227B331C300E3B4D5 /* SearchViewController.swift */,
 				5022248427B331EF00E3B4D5 /* FavouritesListViewController.swift */,
 				5022248A27B3ED8C00E3B4D5 /* FollowersListViewController.swift */,
+				502224B727B68F6100E3B4D5 /* UserInfoViewController.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				5022248327B331C300E3B4D5 /* SearchViewController.swift in Sources */,
 				5022246F27B32AD400E3B4D5 /* AppDelegate.swift in Sources */,
 				5022247127B32AD400E3B4D5 /* SceneDelegate.swift in Sources */,
+				502224B827B68F6100E3B4D5 /* UserInfoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
