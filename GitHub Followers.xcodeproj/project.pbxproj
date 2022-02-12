@@ -31,6 +31,7 @@
 		502224BA27B69F3F00E3B4D5 /* GFUserHeaderInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224B927B69F3F00E3B4D5 /* GFUserHeaderInfoViewController.swift */; };
 		502224BD27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224BC27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift */; };
 		502224BF27B6A79F00E3B4D5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224BE27B6A79F00E3B4D5 /* Constants.swift */; };
+		502224C127B7EA3F00E3B4D5 /* GFItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C027B7EA3F00E3B4D5 /* GFItemInfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		502224B927B69F3F00E3B4D5 /* GFUserHeaderInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFUserHeaderInfoViewController.swift; sourceTree = "<group>"; };
 		502224BC27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFSecondaryTitleLabel.swift; sourceTree = "<group>"; };
 		502224BE27B6A79F00E3B4D5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		502224C027B7EA3F00E3B4D5 /* GFItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 			isa = PBXGroup;
 			children = (
 				502224B527B5D3A000E3B4D5 /* GFEmptyStateView.swift */,
+				502224C027B7EA3F00E3B4D5 /* GFItemInfoView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			files = (
 				502224A327B41B1800E3B4D5 /* User.swift in Sources */,
 				502224BF27B6A79F00E3B4D5 /* Constants.swift in Sources */,
+				502224C127B7EA3F00E3B4D5 /* GFItemInfoView.swift in Sources */,
 				5022249127B3F86A00E3B4D5 /* GFAlertViewController.swift in Sources */,
 				5022248927B345F900E3B4D5 /* GFTextField.swift in Sources */,
 				5022248527B331EF00E3B4D5 /* FavouritesListViewController.swift in Sources */,
