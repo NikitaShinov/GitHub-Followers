@@ -37,6 +37,7 @@
 		502224C727B9397E00E3B4D5 /* GFFollowerItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C627B9397E00E3B4D5 /* GFFollowerItemViewController.swift */; };
 		502224CA27B93D0000E3B4D5 /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C927B93D0000E3B4D5 /* Date+Ext.swift */; };
 		502224CC27B93D3600E3B4D5 /* String + Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224CB27B93D3600E3B4D5 /* String + Ext.swift */; };
+		502224CE27B9C91900E3B4D5 /* PersistanceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224CD27B9C91900E3B4D5 /* PersistanceManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		502224C627B9397E00E3B4D5 /* GFFollowerItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFFollowerItemViewController.swift; sourceTree = "<group>"; };
 		502224C927B93D0000E3B4D5 /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 		502224CB27B93D3600E3B4D5 /* String + Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String + Ext.swift"; sourceTree = "<group>"; };
+		502224CD27B9C91900E3B4D5 /* PersistanceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistanceManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 			isa = PBXGroup;
 			children = (
 				502224A527B425EB00E3B4D5 /* NetworkManager.swift */,
+				502224CD27B9C91900E3B4D5 /* PersistanceManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 				502224C327B92D7C00E3B4D5 /* GFItemInfoViewController.swift in Sources */,
 				502224A327B41B1800E3B4D5 /* User.swift in Sources */,
 				502224BF27B6A79F00E3B4D5 /* Constants.swift in Sources */,
+				502224CE27B9C91900E3B4D5 /* PersistanceManager.swift in Sources */,
 				502224CC27B93D3600E3B4D5 /* String + Ext.swift in Sources */,
 				502224C127B7EA3F00E3B4D5 /* GFItemInfoView.swift in Sources */,
 				5022249127B3F86A00E3B4D5 /* GFAlertViewController.swift in Sources */,
