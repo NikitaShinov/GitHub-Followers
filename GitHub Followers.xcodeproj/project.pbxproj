@@ -32,6 +32,7 @@
 		502224BD27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224BC27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift */; };
 		502224BF27B6A79F00E3B4D5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224BE27B6A79F00E3B4D5 /* Constants.swift */; };
 		502224C127B7EA3F00E3B4D5 /* GFItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C027B7EA3F00E3B4D5 /* GFItemInfoView.swift */; };
+		502224C327B92D7C00E3B4D5 /* GFItemInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C227B92D7C00E3B4D5 /* GFItemInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		502224BC27B69FB700E3B4D5 /* GFSecondaryTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFSecondaryTitleLabel.swift; sourceTree = "<group>"; };
 		502224BE27B6A79F00E3B4D5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		502224C027B7EA3F00E3B4D5 /* GFItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoView.swift; sourceTree = "<group>"; };
+		502224C227B92D7C00E3B4D5 /* GFItemInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 			children = (
 				502224B927B69F3F00E3B4D5 /* GFUserHeaderInfoViewController.swift */,
 				5022249027B3F86A00E3B4D5 /* GFAlertViewController.swift */,
+				502224C227B92D7C00E3B4D5 /* GFItemInfoViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				502224C327B92D7C00E3B4D5 /* GFItemInfoViewController.swift in Sources */,
 				502224A327B41B1800E3B4D5 /* User.swift in Sources */,
 				502224BF27B6A79F00E3B4D5 /* Constants.swift in Sources */,
 				502224C127B7EA3F00E3B4D5 /* GFItemInfoView.swift in Sources */,
