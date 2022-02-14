@@ -11,7 +11,7 @@ protocol FollowersListVCDelegate: AnyObject {
     func didRequestFollowers(for username: String)
 }
 
-class FollowersListViewController: UIViewController {
+class FollowersListViewController: GFDataLoadingViewController {
     
     enum Section {
         case main
