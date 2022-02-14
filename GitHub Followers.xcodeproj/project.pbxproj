@@ -38,6 +38,7 @@
 		502224CA27B93D0000E3B4D5 /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224C927B93D0000E3B4D5 /* Date+Ext.swift */; };
 		502224CC27B93D3600E3B4D5 /* String + Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224CB27B93D3600E3B4D5 /* String + Ext.swift */; };
 		502224CE27B9C91900E3B4D5 /* PersistanceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224CD27B9C91900E3B4D5 /* PersistanceManager.swift */; };
+		502224D027B9D21500E3B4D5 /* FavoriteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502224CF27B9D21500E3B4D5 /* FavoriteTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		502224C927B93D0000E3B4D5 /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 		502224CB27B93D3600E3B4D5 /* String + Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String + Ext.swift"; sourceTree = "<group>"; };
 		502224CD27B9C91900E3B4D5 /* PersistanceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistanceManager.swift; sourceTree = "<group>"; };
+		502224CF27B9D21500E3B4D5 /* FavoriteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,6 +198,7 @@
 			isa = PBXGroup;
 			children = (
 				502224AB27B438F500E3B4D5 /* FollowerCollectionViewCell.swift */,
+				502224CF27B9D21500E3B4D5 /* FavoriteTableViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -351,6 +354,7 @@
 				5022248B27B3ED8C00E3B4D5 /* FollowersListViewController.swift in Sources */,
 				502224A927B432BA00E3B4D5 /* ErrorMessage.swift in Sources */,
 				502224B627B5D3A000E3B4D5 /* GFEmptyStateView.swift in Sources */,
+				502224D027B9D21500E3B4D5 /* FavoriteTableViewCell.swift in Sources */,
 				502224AC27B438F500E3B4D5 /* FollowerCollectionViewCell.swift in Sources */,
 				5022248F27B3F7B200E3B4D5 /* GFBodyLabel.swift in Sources */,
 				502224C527B9372500E3B4D5 /* GFRepoItemViewController.swift in Sources */,
